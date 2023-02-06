@@ -6,12 +6,12 @@ The current deadwood potential (current_deadwood_potential.tif) file displays th
 
 ## Future deadwood distribution
 The future deadwood potential (future deadwood_potential.tif) file is composed by 6 layers accroding to future climate and management scenarios: 
--RCP45_2050: current management and RCP4.5 climate by mid century
--RCP_85_2050: current management and RCP8.5 climate by mid century
--RCP45_2100: current management and RCP4.5 climate by the end of the century
--RCP_85_2100:  current management and RCP8.5 climate by the end of the century
--Management: biodiversity oriented  management and current climate
--Management_RCP_45: biodiversity oriented management and RCP4.5 climate by the end of the century
+* RCP45_2050: current management and RCP4.5 climate by mid century
+* RCP_85_2050: current management and RCP8.5 climate by mid century
+* RCP45_2100: current management and RCP4.5 climate by the end of the century
+* RCP_85_2100:  current management and RCP8.5 climate by the end of the century
+* Management: biodiversity oriented  management and current climate
+* Management_RCP_45: biodiversity oriented management and RCP4.5 climate by the end of the century
 
 Biodiversity-oriented management considers a simultaneous increase in forest age and expansion of mixed forest areas,
 with the corresponding modifications in aboveground biomass and tree density
